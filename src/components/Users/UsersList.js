@@ -1,5 +1,4 @@
 import Card from "../UI/Card";
-import AddUser from "./AddUser";
 import classes from './UsersList.module.css';
 
 const UsersList = (props) => {
