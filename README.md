@@ -1,1 +1,3 @@
-En este proyecto se hace uso de modal para el feedback al usuario
+En este proyecto se hace uso de un erroModal (modal y backdrop)
+Se añaden objetos a un array
+se ocupa componentes reutilizables
